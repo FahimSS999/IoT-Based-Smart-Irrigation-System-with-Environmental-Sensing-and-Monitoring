@@ -8,8 +8,8 @@
 #include <DHT.h>
 
 // --- WiFi credentials ---
-char ssid[] = "sakib";
-char pass[] = "sakib123456";
+char ssid[] = "wifi_name";
+char pass[] = "wifi_password";
 
 // --- Pin Definitions ---
 const int soilMoisturePin = 32;
