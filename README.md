@@ -14,7 +14,7 @@ graph TD
     G -->|Manual Control| F
 ```
 # 🌿 Smart Agriculture Monitoring System
-![Smart Agriculture System](./Dev/sm.jpeg)
+![Smart Agriculture System](./Dev/smt.jpeg)
 
 ## 📦 Features
 - 🌡️ Real-time temperature & humidity tracking
