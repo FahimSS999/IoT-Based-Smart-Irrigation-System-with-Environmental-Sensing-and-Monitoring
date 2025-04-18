@@ -1,13 +1,8 @@
 ```markdown
 
-![Smart Agriculture System](./Dev/sm.jpeg)
-
-# 🌿 Smart Agriculture Monitoring System
-
 A smart IoT project using ESP32, DHT11, Soil Moisture, and Water Level Sensors, all connected with the Blynk IoT platform to monitor and automate agricultural environments.
 
 ## 🧭 Project Overview
-
 ```mermaid
 graph TD
     A[ESP32] -->|WiFi| B[Blynk Cloud]
@@ -18,6 +13,8 @@ graph TD
     B --> G[Mobile App Dashboard]
     G -->|Manual Control| F
 ```
+# 🌿 Smart Agriculture Monitoring System
+![Smart Agriculture System](./Dev/sm.jpeg)
 
 ## 📦 Features
 - 🌡️ Real-time temperature & humidity tracking
