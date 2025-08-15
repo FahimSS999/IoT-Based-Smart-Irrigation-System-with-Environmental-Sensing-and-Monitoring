@@ -76,7 +76,7 @@ graph TD
 
 ## 👨‍🔬 Author
 Developed by **Rakib Hassan**  
-🚀 GitHub: [rakibhassan66](https://github.com/rakibhassan66)  
+🚀 GitHub: [Deadbrat](https://github.com/rakibhassanrh66)  
 🔐 Cybersecurity Enthusiast | IoT Builder | Innovation Seeker  
 
 💬 *"Empowering agriculture through automation & intelligence."*
